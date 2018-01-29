@@ -1,6 +1,7 @@
 # sublime-shortcut-for-mac
 
-| Command | Description |
+| KeyPress | Command |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| ⌘ + X | Cut line |
+| ⌘ + ↩ | Insert line after |
+|||
